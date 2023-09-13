@@ -5,7 +5,7 @@ Se realizo un software el cual tiene como objetivo almacenar y gestionar el inve
 ## Tabla de Contenidos
 
 - [Requisitos de Instalación](#requisitos-de-instalación)
-- [Instalación](#instalación
+- [Instalación](#instalación)
 - [Contacto](#contacto)
 
 
