@@ -40,6 +40,6 @@ Sigue estos pasos para instalar y configurar este proyecto en tu entorno:
    git clone https://github.com/danny32q/konecta.git 
 2. Instalar extenciones php desde php server hasta php intelephense
 
-##Contacto 
+## Contacto 
 1. Correo electronico: Danieljaimesgt@gmail.com
 
