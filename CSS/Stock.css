@@ -1,0 +1,44 @@
+/* Reset de estilos para eliminar márgenes y rellenos predeterminados */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos generales para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+/* Estilos para el título principal */
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Estilos para los títulos secundarios */
+h2 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Estilos para los párrafos de información */
+p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+/* Estilos para resaltar el nombre del producto */
+.product-name {
+    font-weight: bold;
+    color: #007bff;
+}
+
+/* Estilos para resaltar la cantidad de stock o ventas */
+.product-info {
+    font-weight: bold;
+    color: #dc3545;
+}
